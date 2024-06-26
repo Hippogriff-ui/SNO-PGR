@@ -1,7 +1,7 @@
 # SNO-PGR
 Prediction of protein S-nitrosylation sites.
 
-## UbNiRF uses the following programming languages and versions:
+## SNO-PGR uses the following programming languages and versions:
 * python 3.10
 * python 3.6
 * MATLAB 2016a
