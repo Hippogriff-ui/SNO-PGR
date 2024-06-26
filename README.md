@@ -31,8 +31,6 @@ data augmentation:
   
 classifier:  
    RF_Kfold_Test.py are the implementation of RF.  
-
-The "chi2_window.py" file is the implementation of the chi-square test with graphing.
-   
-The "feature_combine.py" is the implementation of combination of 6 features.
+   The "chi2_window.py" file is the implementation of the chi-square test with graphing.
+   The "feature_combine.py" is the implementation of combination of 6 features.
 
