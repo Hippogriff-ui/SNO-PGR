@@ -22,12 +22,12 @@ feature extraction:
    "PSSM" folder is the implementation of PSSM.
    
 feature selection:  
-   Null_importances.py represents the Null importances.
-   pcc.py represents the PCC.
+   Null_importances.py represents the Null importances.  
+   pcc.py represents the PCC.  
 
-data augmentation:
-  cwgan.py is the implementation of CWGAN.
-  smote.py is the implementation of SMOTE.
+data augmentation:  
+  cwgan.py is the implementation of CWGAN.  
+  smote.py is the implementation of SMOTE.  
   
 classifier:  
    RF_Kfold_Test.py are the implementation of RF.  
